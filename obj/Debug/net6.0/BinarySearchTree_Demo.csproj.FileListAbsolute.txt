@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\Delegate_Demo\BinarySearchTree_Demo\bin\Debug\net6.0\BinarySearchTree_Demo.exe
+C:\Users\DELL\source\repos\Delegate_Demo\BinarySearchTree_Demo\bin\Debug\net6.0\BinarySearchTree_Demo.deps.json
+C:\Users\DELL\source\repos\Delegate_Demo\BinarySearchTree_Demo\bin\Debug\net6.0\BinarySearchTree_Demo.runtimeconfig.json
+C:\Users\DELL\source\repos\Delegate_Demo\BinarySearchTree_Demo\bin\Debug\net6.0\BinarySearchTree_Demo.dll
+C:\Users\DELL\source\repos\Delegate_Demo\BinarySearchTree_Demo\bin\Debug\net6.0\BinarySearchTree_Demo.pdb
+C:\Users\DELL\source\repos\Delegate_Demo\BinarySearchTree_Demo\obj\Debug\net6.0\BinarySearchTree_Demo.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Delegate_Demo\BinarySearchTree_Demo\obj\Debug\net6.0\BinarySearchTree_Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Delegate_Demo\BinarySearchTree_Demo\obj\Debug\net6.0\BinarySearchTree_Demo.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Delegate_Demo\BinarySearchTree_Demo\obj\Debug\net6.0\BinarySearchTree_Demo.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Delegate_Demo\BinarySearchTree_Demo\obj\Debug\net6.0\BinarySearchTree_Demo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Delegate_Demo\BinarySearchTree_Demo\obj\Debug\net6.0\BinarySearchTree_Demo.dll
+C:\Users\DELL\source\repos\Delegate_Demo\BinarySearchTree_Demo\obj\Debug\net6.0\refint\BinarySearchTree_Demo.dll
+C:\Users\DELL\source\repos\Delegate_Demo\BinarySearchTree_Demo\obj\Debug\net6.0\BinarySearchTree_Demo.pdb
+C:\Users\DELL\source\repos\Delegate_Demo\BinarySearchTree_Demo\obj\Debug\net6.0\BinarySearchTree_Demo.genruntimeconfig.cache
+C:\Users\DELL\source\repos\Delegate_Demo\BinarySearchTree_Demo\obj\Debug\net6.0\ref\BinarySearchTree_Demo.dll
